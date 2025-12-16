@@ -1,4 +1,4 @@
-Starbucks Management System ☕
+Starbucks Management System ☕<br>
 A robust, offline Desktop ERP application designed for managing cafe 
 operations. Built with Python and CustomTkinter, it features a modern UI,
 real-time table management, inventory tracking, and comprehensive reporting.
